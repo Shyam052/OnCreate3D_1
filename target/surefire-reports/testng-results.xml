@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="159363" started-at="2018-10-14T12:22:27Z" finished-at="2018-10-14T12:25:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="159363" started-at="2018-10-14T12:22:27Z" finished-at="2018-10-14T12:25:07Z">
+      <class name="testcasespackage.HomePageDumpLinks">
+        <test-method status="PASS" signature="browserInitialize()[pri:0, instance:testcasespackage.HomePageDumpLinks@327471b5]" name="browserInitialize" is-config="true" duration-ms="32255" started-at="2018-10-14T12:22:27Z" finished-at="2018-10-14T12:22:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserInitialize -->
+        <test-method status="PASS" signature="headerholder()[pri:0, instance:testcasespackage.HomePageDumpLinks@327471b5]" name="headerholder" duration-ms="126327" started-at="2018-10-14T12:22:59Z" finished-at="2018-10-14T12:25:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headerholder -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:testcasespackage.HomePageDumpLinks@327471b5]" name="teardown" is-config="true" duration-ms="761" started-at="2018-10-14T12:25:06Z" finished-at="2018-10-14T12:25:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcasespackage.HomePageDumpLinks -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

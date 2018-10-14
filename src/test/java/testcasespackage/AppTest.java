@@ -1,4 +1,4 @@
-package dafaultpackage;
+package testcasespackage;
 
 import static org.junit.Assert.assertTrue;
 
